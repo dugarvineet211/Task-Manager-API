@@ -1,0 +1,1 @@
+A backend API made using Node.js, Express and MongoDB(using Mongoose) to handle daily task managing requests.
